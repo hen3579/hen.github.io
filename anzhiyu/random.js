@@ -1,1 +1,1 @@
-var posts=["2023/08/13/hello-world/"];function toRandomPost(){pjax.loadUrl('/'+posts[Math.floor(Math.random() * posts.length)]);};
+var posts=["2023/08/13/hello-world/","2023/08/13/考研数学01函数与极限/"];function toRandomPost(){pjax.loadUrl('/'+posts[Math.floor(Math.random() * posts.length)]);};
